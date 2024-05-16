@@ -1,6 +1,6 @@
 - Hello World! 👋
 - I'm Rondinelli ^^
 
-SCHOOL
+🎒 SCHOOL
 Currently studying Bachelor of Science in Computer Science at ICCT Colleges (Main Campus)
 
