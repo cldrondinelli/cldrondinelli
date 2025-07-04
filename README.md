@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently learning freecodecamp.org and W3schools
  
- 🌱 3rd Year College Student taking Bachelor of Science in Computer Science
+ 🌱 4th Year College Student taking Bachelor of Science in Computer Science
 
 💬 Ask me about HTML, CSS, JS [here](https://github.com/cldrondinelli).
 
